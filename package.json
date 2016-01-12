@@ -27,6 +27,14 @@
   , "request" : ">= 2.1.1"
   }
   
+, "devDependencies": {
+    "sinon": "~1.17.2"
+  }
+
+, "scripts": {
+    "test": "mocha"
+  }
+
 , "licenses" :
     [{
       "type" : "MIT"
